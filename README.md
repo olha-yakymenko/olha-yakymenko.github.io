@@ -43,7 +43,7 @@
         }
 
         img {
-            max-width: 100%;
+            max-width: 400px;
             height: auto;
             margin-top: 20px;
             border-radius: 5px;
@@ -61,7 +61,7 @@
     <main>
         <section>
             <h2>Paragraf i Link</h2>
-            <p>To jest przykładowy paragraf tekstu. <a href=https://www.markdownguide.org/>To jest link</a>.</p>
+            <p>To jest przykładowy paragraf tekstu. <a href="https://www.example.com">To jest link</a>.</p>
         </section>
 
         <section>
@@ -89,6 +89,7 @@
         <section>
             <h2>Obrazek</h2>
             <img src="obrazek.jpg" alt="Opis obrazka">
+
         </section>
     </main>
 
