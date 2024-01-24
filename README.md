@@ -44,9 +44,9 @@
 
         img {
             max-width: 400px;
-            height: auto;
+            height: 400px;
             margin-top: 20px;
-            border-radius: 5px;
+            border-radius: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
     </style>
